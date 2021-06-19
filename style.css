@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-size: 16px;
+}
+
+#home {
+  background-color: black;
+  color: white;
+}
+
+#side-text {
+  color: gold;
+  text-align: center;
+}
+
+#contribute {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#footer_text {
+  font-size: 20px;
+}
+
+.bar hr {
+  max-width: 150px;
+  border-width: 3px;
+  border-color: rgb(167, 9, 9);
+}
+
+.bar1 hr {
+  max-width: 1500px;
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+}
+
+footer {
+  padding: 25px 0;
+  text-align: center;
+}
