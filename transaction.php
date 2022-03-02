@@ -32,7 +32,7 @@
 <body>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-md bg-danger navbar-dark" id="navigation">
-    <span class="navbar-text" id="nav_text">The Sparks Foundation</span>
+    <span class="navbar-text" id="nav_text">The Dark Knight Foundation</span>
     <button
         class="navbar-toggler"
         data-toggle="collapse"
